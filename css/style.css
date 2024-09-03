@@ -220,3 +220,16 @@ a.view-all-blog-page-btn {
     border: 1px solid #242535;
     border-radius: 6px;
 }
+
+/* Footer Start  */
+
+.footer-top-flex-container {
+    padding: 64px 0;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-top-about-col {
+    flex: 0 0 290px;
+}
